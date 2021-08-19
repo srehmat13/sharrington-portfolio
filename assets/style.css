@@ -20,7 +20,7 @@
     background-color: #fffffb;
   }
 
-  /* HEADER / NAV BAR STYLES START */
+/* HEADER / NAV BAR STYLES START */
   header {
     padding: 16px;
     display: flex;
@@ -58,119 +58,120 @@
   header nav ul li a:hover {
     opacity: 0.8;
   }
-  /* HEADER / NAV BAR STYLES END */
+/* HEADER / NAV BAR STYLES END */
 
-  /* SECTION 1 ABOUT ME*/
-section {
-  max-width: 1548px;
-  padding: 16px;
-  margin: 0 auto;
+/* SECTION 1 ABOUT ME*/
+  section {
+    max-width: 1548px;
+    padding: 16px;
+    margin: 0 auto;
   }
 
-section h2 {
-  padding: 16px 0;
-  margin: 0 8px 16px;
-  font-size: 35px;
-  color: #3b3c36;
-  text-align: center;
-  font-weight: lighter;
-}
+  section h2 {
+    padding: 16px 0;
+    margin: 0 8px 16px;
+    font-size: 35px;
+    color: #3b3c36;
+    text-align: center;
+    font-weight: lighter;
+  }
 
-.bio {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  padding: 8px;
-}
+  .bio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+  }
 
-.bio img {
-  display: block;
-  width: 100%;
-  max-width: 730px;
-  margin: 16px;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
-}
+  .bio img {
+    display: block;
+    width: 100%;
+    max-width: 730px;
+    margin: 16px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.8);
+  }
 
-.bio p {
-  max-width: 576px;
-  margin: 16px;
-  font-size: 39px;
-  text-align:justify;
-  color: #3b3c36;
-}
+  .bio p {
+    max-width: 576px;
+    margin: 16px;
+    font-size: 39px;
+    text-align: center;
+    color: #3b3c36;
+  }
 
 
 /* END OF SECTION 1: ABOUT ME */
 
 /* SECTION 2: PROJECTS */
-.project-card-1 {
-  display: inline;
-  text-align: center;
-  background-color: #fff;
-  box-shadow: 0px 0px 3px rgba(0,0,0,0.2);
-}
+  .project-card-1 {
+    display: inline;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.2);
+  }
 
-.project-card-1 img {
-  -webkit-filter: contrast(160%); /* Safari 6.0 - 9.0 */
-  filter: contrast(160%);
-}
+  .project-card-1 img {
+    -webkit-filter: contrast(160%); /* Safari 6.0 - 9.0 */
+    filter: contrast(160%);
+  }
 
-.card-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 16px;
-}
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 16px;
+  }
 
-.project-card {
-  position: relative;
-  max-width: 500px;
-  margin: 8px;
-  text-align: center;
-  background-color: #fff;
-  box-shadow: 0px 0px 3px rgba(0,0,0,0.2);
-}
+  .project-card {
+    position: relative;
+    max-width: 500px;
+    margin: 8px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.2);
+  }
 
 .project-card img {
   display: block;
   width: 100%;
 }
 
-.project-card h3 {
-  width: 100%;
-  margin: 0;
-  padding: 24px 0;
-  font-size: 25px;
-  font-weight: bold;
-  text-align: center;
-}
+  .project-card h3 {
+    width: 100%;
+    margin: 0;
+    padding: 24px 0;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+  }
 /* END OF SECTION 2: PROJECTS */
 
 /* CONTACT */
-#contact ul {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-}
+  #contact ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+  }
 
-#contact ul li {
-  padding: 16px;
-  font-size: 24px;
-}
+  #contact ul li {
+    padding: 16px;
+    font-size: 24px;
+  }
 
-#contact ul li a {
+  #contact ul li a {
     font-weight: lighter;
     text-decoration: none;
     margin: 0;
     font-size: 20px;
     color: #3b3c36;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
+  }
 /* END OF CONTACT */
 
   /* FOOTER */
