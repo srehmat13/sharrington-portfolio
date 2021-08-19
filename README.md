@@ -9,6 +9,7 @@ CSS
 
 ## Website 
 https://github.com/srehmat13/sharrington-portfolio.git
+![ScreenShot](/assets/images/portfolio-screenshot.png)
 
 
 ## Contribution 
