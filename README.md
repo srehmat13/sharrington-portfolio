@@ -1,7 +1,7 @@
 # Shabia Harrington Portfolio
 
 ## Purpose 
-Hello my name is Shabia Harrington. This is my professinal portfolio showcasing my projects. 
+Hello my name is Shabia Harrington. I am a healthcare professional. I work at Northwell Health as a pharmacist. I have a passion for helping others and my goal is to provide better healthcare by placing technology and innovation at the forefront of medicine. This is my professional portfolio showcasing my projects. 
 
 ## Built With 
 HTML
@@ -9,6 +9,7 @@ CSS
 
 ## Website 
 https://github.com/srehmat13/sharrington-portfolio.git
+
 
 ## Contribution 
 Made by Shabia J. Harrington 
